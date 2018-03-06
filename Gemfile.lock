@@ -1,0 +1,25 @@
+PATH
+  remote: .
+  specs:
+    mdt (0.0.1)
+      mdt-core (~> 0.0)
+      mdt-dummy (~> 0.0)
+      mdt-simple (~> 0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mdt-core (0.0.2)
+    mdt-dummy (0.0.2)
+      mdt-core (~> 0.0)
+    mdt-simple (0.0.1)
+      mdt-core (~> 0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mdt!
+
+BUNDLED WITH
+   1.16.1
