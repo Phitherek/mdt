@@ -9,10 +9,10 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    mdt-core (0.0.2)
+    mdt-core (0.1.1)
     mdt-dummy (0.0.2)
       mdt-core (~> 0.0)
-    mdt-simple (0.0.1)
+    mdt-simple (0.0.3)
       mdt-core (~> 0.0)
 
 PLATFORMS
