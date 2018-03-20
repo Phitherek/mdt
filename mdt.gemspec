@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
       'documentation_uri' => 'http://www.rubydoc.info/github/Phitherek/mdt',
       'source_code_uri' => 'https://github.com/Phitherek/mdt'
   }
-  s.add_runtime_dependency 'mdt-core', '~> 0.0'
+  s.add_runtime_dependency 'mdt-core', '~> 0.2'
   s.add_runtime_dependency 'mdt-dummy', '~> 0.0'
   s.add_runtime_dependency 'mdt-simple', '~> 0.0'
 end

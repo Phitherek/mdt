@@ -6,7 +6,7 @@ MDT is a deployment automation tool that is designed to be simple and easily ext
 
 The `mdt` gem is a convenience gem that depends on:
 
-* [mdt-core](https://github.com/Phitherek/mdt-core "mdt-core") >= 0.0.1
+* [mdt-core](https://github.com/Phitherek/mdt-core "mdt-core") >= 0.2
 * [mdt-dummy](https://github.com/Phitherek/mdt-dummy "mdt-dummy") >= 0.0.1
 * [mdt-simple](https://github.com/Phitherek/mdt-simple "mdt-simple") >= 0.0.1
 
